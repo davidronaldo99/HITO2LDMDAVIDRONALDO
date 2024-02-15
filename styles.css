@@ -1,0 +1,60 @@
+body{
+    background-image: url('https://img.freepik.com/vector-gratis/fondo-geometrico-abstracto-estructura-metalica_52683-59421.jpg'); 
+    background-size: cover; 
+    background-position: center;
+
+
+
+
+
+
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    border: 1px solid #000000;
+}
+
+.table-responsive{
+border:1px solid #000000;
+
+
+
+}
+.table-bordered{
+
+    border:1px solid #000000;
+
+
+
+}
+
+#factura {
+    background-color: #f9f9f9;
+    border: 1px solid #000000;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+#factura h2 {
+    margin-top: 0;
+    color: #000000;
+}
+
+#factura p {
+    margin: 5px 0;
+    color: #000000;
+}
+
+#factura ul {
+    margin-top: 5px;
+    padding-left: 20px;
+}
+
+#factura ul li {
+    list-style-type: disc;
+    color: #000000;
+}
+
+

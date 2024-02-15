@@ -1,0 +1,182 @@
+{
+    "pedidos": {
+      "2021": {
+        "trimestre1": [
+          {
+            "cliente": {
+              "nombre": "Juan",
+              "apellidos": "Gómez",
+              "telefono": "123456789",
+              "direccion": {
+                "calle": "Calle Mayor",
+                "ciudad": "Madrid",
+                "codigoPostal": "28001",
+                "provincia": "Madrid"
+              },
+              "correoElectronico": "juan.gomez@example.com",
+              "fechaInclusion": "2020-12-01"
+            },
+            "numeroPedido": 1,
+            "fechaCompra": "2021-01-05",
+            "fechaEntrega": "2021-01-10",
+            "totalFactura": 150.00,
+            "productos": [
+              {
+                "nombreProducto": "Camiseta básica",
+                "referencia": "CB001",
+                "precio": 30.00,
+                "unidades": 2
+              },
+              {
+                "nombreProducto": "Pantalón vaquero",
+                "referencia": "PV002",
+                "precio": 50.00,
+                "unidades": 1
+              }
+            ]
+          },
+          {
+            "cliente": {
+              "nombre": "María",
+              "apellidos": "López",
+              "telefono": "987654321",
+              "direccion": {
+                "calle": "Calle Gran Vía",
+                "ciudad": "Barcelona",
+                "codigoPostal": "08001",
+                "provincia": "Barcelona"
+              },
+              "correoElectronico": "maria.lopez@example.com",
+              "fechaInclusion": "2021-01-15"
+            },
+            "numeroPedido": 2,
+            "fechaCompra": "2021-02-10",
+            "fechaEntrega": "2021-02-15",
+            "totalFactura": 80.00,
+            "productos": [
+              {
+                "nombreProducto": "Zapatillas deportivas",
+                "referencia": "ZD001",
+                "precio": 40.00,
+                "unidades": 1
+              },
+              {
+                "nombreProducto": "Calcetines deportivos",
+                "referencia": "CD002",
+                "precio": 20.00,
+                "unidades": 2
+              }
+            ]
+          }
+        ],
+        "trimestre2": [
+          {
+            "cliente": {
+              "nombre": "David",
+              "apellidos": "Martínez",
+              "telefono": "111222333",
+              "direccion": {
+                "calle": "Avenida Diagonal",
+                "ciudad": "Barcelona",
+                "codigoPostal": "08003",
+                "provincia": "Barcelona"
+              },
+              "correoElectronico": "david.martinez@example.com",
+              "fechaInclusion": "2020-11-20"
+            },
+            "numeroPedido": 3,
+            "fechaCompra": "2021-05-20",
+            "fechaEntrega": "2021-05-25",
+            "totalFactura": 200.00,
+            "productos": [
+              {
+                "nombreProducto": "Teléfono móvil",
+                "referencia": "TM001",
+                "precio": 150.00,
+                "unidades": 1
+              },
+              {
+                "nombreProducto": "Funda para móvil",
+                "referencia": "FM002",
+                "precio": 20.00,
+                "unidades": 1
+              },
+              {
+                "nombreProducto": "Auriculares inalámbricos",
+                "referencia": "AI003",
+                "precio": 30.00,
+                "unidades": 1
+              }
+            ]
+          },
+          {
+            "cliente": {
+              "nombre": "Laura",
+              "apellidos": "Fernández",
+              "telefono": "444555666",
+              "direccion": {
+                "calle": "Calle Valencia",
+                "ciudad": "Madrid",
+                "codigoPostal": "28002",
+                "provincia": "Madrid"
+              },
+              "correoElectronico": "laura.fernandez@example.com",
+              "fechaInclusion": "2020-10-10"
+            },
+            "numeroPedido": 4,
+            "fechaCompra": "2021-06-15",
+            "fechaEntrega": "2021-06-20",
+            "totalFactura": 120.00,
+            "productos": [
+              {
+                "nombreProducto": "Libro de cocina",
+                "referencia": "LC001",
+                "precio": 30.00,
+                "unidades": 2
+              },
+              {
+                "nombreProducto": "Batidora eléctrica",
+                "referencia": "BE002",
+                "precio": 60.00,
+                "unidades": 1
+              }
+            ]
+          },
+          {
+            "cliente": {
+              "nombre": "Ana",
+              "apellidos": "García",
+              "telefono": "555666777",
+              "direccion": {
+                "calle": "Calle Sevilla",
+                "ciudad": "Sevilla",
+                "codigoPostal": "41001",
+                "provincia": "Sevilla"
+              },
+              "correoElectronico": "ana.garcia@example.com",
+              "fechaInclusion": "2021-12-01"
+            },
+            "numeroPedido": 5,
+            "fechaCompra": "2022-01-10",
+            "fechaEntrega": "2022-01-15",
+            "totalFactura": 90.00,
+            "productos": [
+              {
+                "nombreProducto": "Camisa de vestir",
+                "referencia": "CV001",
+                "precio": 50.00,
+                "unidades": 1
+              },
+              {
+                "nombreProducto": "Corbata de seda",
+                "referencia": "CS002",
+                "precio": 40.00,
+                "unidades": 1
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+  
